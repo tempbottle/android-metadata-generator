@@ -10,6 +10,8 @@ public class Generator {
 	 */
 	public static void main(String[] args) throws Exception
 	{
+		//new ActivityGenerator().generate();
+		
 		String dirName = "../jars";
 		if (args != null && args.length > 0)
 		{
